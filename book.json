@@ -1,0 +1,142 @@
+{
+  "title": "如何买高性价比保险",
+  "description": "介绍如何购买高性价比的保险。包括保险的概述，买保险的基础步骤和逻辑，最有价值的资料；介绍保险背景知识，包括中国的保险监管，中国的保险公司，保险公司种类，官方备案的保险公司，包括人寿险公司和财产险公司，官方备案的保险产品；常见的保险种类，人身险的重疾险、包括特定疾病的轻症和身故保险金，定寿险、医疗险、意外险，以及财产险的房屋险、车险等；常见保险公司和产品，比如百年人寿；以及如何选择保险，包括各种实际案例；以及各种常见问题，为何要买保险，网上买保险的注意事项和相关网站，社保对比保险，医疗险对比重疾险，重疾险对比定寿险，跨区域购买，如何父母老人买保险。最终实现可以根据自己情况选择适合自己的且价格实惠的保险。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "buy_cost_effective_insurance",
+          "user": "crifan",
+          "type": "star",
+          "count": true,
+          "size": "small"
+        },
+        {
+          "user": "crifan",
+          "type": "follow",
+          "width": "120",
+          "count": false,
+          "size": "small"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/buy_cost_effective_insurance/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/buy_cost_effective_insurance/pdf/buy_cost_effective_insurance.pdf",
+      "icon": "fa-file-pdf-o",
+      "label": "下载PDF"
+    },
+    "google-adsense": {
+      "ads": [
+        {
+          "client": "ca-pub-6626240105039250"
+        }
+      ]
+    },
+    "callouts": {
+      "showTypeInHeader": false
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "disqus": {
+      "shortName": "crifan"
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-atom-dark.css"
+      ]
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": true,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": true,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "douban",
+        "facebook",
+        "google",
+        "instapaper",
+        "line",
+        "linkedin",
+        "messenger",
+        "pocket",
+        "qq",
+        "qzone",
+        "stumbleupon",
+        "twitter",
+        "viber",
+        "vk",
+        "weibo",
+        "whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "crifan.com，使用<a href='https://creativecommons.org/licenses/by/4.0/deed.zh'>署名4.0国际(CC BY 4.0)协议</a>发布",
+      "modify_label": "最后更新：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "ga": {
+      "token": "UA-28297199-1"
+    },
+    "donate": {
+      "wechat": "https://www.crifan.com/files/res/crifan_com/crifan_wechat_pay.jpg",
+      "alipay": "https://www.crifan.com/files/res/crifan_com/crifan_alipay_pay.jpg",
+      "title": "",
+      "button": "打赏",
+      "alipayText": "支付宝打赏给Crifan",
+      "wechatText": "微信打赏给Crifan"
+    }
+  },
+  "author": "Crifan Li <admin@crifan.com>",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": "./src",
+  "links": {
+    "sidebar": {
+      "主页": "http://www.crifan.com"
+    }
+  },
+  "plugins": [
+    "google-adsense",
+    "theme-comscore",
+    "anchors",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "disqus",
+    "-highlight",
+    "prism",
+    "prism-themes",
+    "github-buttons",
+    "splitter",
+    "-sharing",
+    "sharing-plus",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "ga",
+    "donate",
+    "sitemap-general",
+    "copy-code-button",
+    "callouts",
+    "toolbar-button"
+  ]
+}
